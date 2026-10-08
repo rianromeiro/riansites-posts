@@ -16,3 +16,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-10 | 10h | 95% dos pacientes de 1ª cirurgia tinham 20–35 anos; site pro celular (ISHRS 2025) | stat |
 | 2026-10-10 | 14h | Vídeo do médico explicando o procedimento: 0 de 5 têm | headline |
 | 2026-10-10 | 18h | 48,43% das buscas por transplantes no Google eram por transplante capilar (ABCRC/Google Trends) | stat |
+| 2026-10-11 | 10h | 70% dos pacientes pesquisam online antes de marcar consulta (Ideal Marketing via O Imparcial) | stat |
+| 2026-10-11 | 14h | Mito x verdade: CFM não proíbe antes e depois (com regra); 0 de 5 com texto educativo | headline |
+| 2026-10-11 | 18h | Redes se contradizem nos números; poucos números verificáveis | headline |
