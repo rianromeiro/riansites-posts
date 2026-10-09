@@ -1,0 +1,31 @@
+[
+ {
+  "file": "2026-10-12_10h_avaliacoes-96.png",
+  "layout": "stat",
+  "tag": "COMPORTAMENTO DO PACIENTE  ·  GOOGLE",
+  "big": "96%",
+  "big_size": 300,
+  "headline": "dos brasileiros leem avaliações no Google antes de contratar um serviço.",
+  "body": "O paciente já viu sua nota antes de abrir seu site. Se o site não confirma o que o Google diz, a dúvida começa ali.",
+  "foot": "Fonte: Reclame Aqui, Decisão Local 2025 (1.591 pessoas), via VIVA"
+ },
+ {
+  "file": "2026-10-12_14h_logos-sociedades.png",
+  "layout": "headline",
+  "tag": "ERRO COMUM  ·  CONFIANÇA",
+  "line1": "0 de 5 grandes sites mostram logos de sociedades médicas.",
+  "line2": "Credencial à vista converte.",
+  "body1": "O paciente quer saber se o médico é qualificado antes de marcar.",
+  "body2": "Nome, CRM, RQE e sociedades à vista põem sua clínica à frente."
+ },
+ {
+  "file": "2026-10-12_18h_trafego-concentrado.png",
+  "layout": "stat",
+  "tag": "MERCADO  ·  TRÁFEGO",
+  "big": "59%",
+  "big_size": 300,
+  "headline": "do tráfego dos 5 maiores sites do nicho está em um só.",
+  "body": "A maior tem cerca de 173,6 mil visitas por mês. As outras quatro dividem cerca de 121 mil. A menor tem 11,6 mil: o jogo é aberto para quem tem um site que convence.",
+  "foot": "Fonte: Similarweb, ago/2026 (5 maiores sites do nicho)"
+ }
+]
