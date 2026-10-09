@@ -19,3 +19,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-11 | 10h | 70% dos pacientes pesquisam online antes de marcar consulta (Ideal Marketing via O Imparcial) | stat |
 | 2026-10-11 | 14h | Mito x verdade: CFM não proíbe antes e depois (com regra); 0 de 5 com texto educativo | headline |
 | 2026-10-11 | 18h | Redes se contradizem nos números; poucos números verificáveis | headline |
+| 2026-10-12 | 10h | 96% dos brasileiros leem avaliações no Google antes de contratar (Reclame Aqui via VIVA, 2025) | stat |
+| 2026-10-12 | 14h | Logos de sociedades médicas: 0 de 5 mostram; credencial à vista | headline |
+| 2026-10-12 | 18h | 59% do tráfego dos 5 maiores sites em um só (Similarweb ago/2026) | stat |
