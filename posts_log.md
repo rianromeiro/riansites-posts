@@ -22,3 +22,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-12 | 10h | 96% dos brasileiros leem avaliações no Google antes de contratar (Reclame Aqui via VIVA, 2025) | stat |
 | 2026-10-12 | 14h | Logos de sociedades médicas: 0 de 5 mostram; credencial à vista | headline |
 | 2026-10-12 | 18h | 59% do tráfego dos 5 maiores sites em um só (Similarweb ago/2026) | stat |
+| 2026-10-13 | 10h | 88 milhões de consultas agendadas por meios digitais em 2025 (Doctoralia, Perfil do Paciente Digital 2026) | stat |
+| 2026-10-13 | 14h | 42 milhões de brasileiros com calvície (Sociedade Brasileira do Cabelo via Folha Vitória) | stat |
+| 2026-10-13 | 18h | 72% confiam em médico que conhecem x 8% em sites de clínicas (Doctoralia 2026) | stat |
