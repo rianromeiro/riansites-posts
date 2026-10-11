@@ -25,3 +25,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-13 | 10h | 88 milhões de consultas agendadas por meios digitais em 2025 (Doctoralia, Perfil do Paciente Digital 2026) | stat |
 | 2026-10-13 | 14h | 42 milhões de brasileiros com calvície (Sociedade Brasileira do Cabelo via Folha Vitória) | stat |
 | 2026-10-13 | 18h | 72% confiam em médico que conhecem x 8% em sites de clínicas (Doctoralia 2026) | stat |
+| 2026-10-14 | 10h | 47% dos pacientes 60+ preferem telefone, 35% WhatsApp; contato visível (Doctoralia 2026 via VIVA) | stat |
+| 2026-10-14 | 14h | Serviço gratuito no banner: só 2 de 5 redes evitam (Res. CFM 2.336/2023) | headline |
+| 2026-10-14 | 18h | 6% confiam em médicos verificados nas mídias sociais; confiança se fecha no site (Doctoralia 2026 via VIVA) | stat |
