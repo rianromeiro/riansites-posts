@@ -28,3 +28,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-14 | 10h | 47% dos pacientes 60+ preferem telefone, 35% WhatsApp; contato visível (Doctoralia 2026 via VIVA) | stat |
 | 2026-10-14 | 14h | Serviço gratuito no banner: só 2 de 5 redes evitam (Res. CFM 2.336/2023) | headline |
 | 2026-10-14 | 18h | 6% confiam em médicos verificados nas mídias sociais; confiança se fecha no site (Doctoralia 2026 via VIVA) | stat |
+| 2026-10-15 | 10h | 53% abandonam site mobile que leva mais de 3s (Google, The Need for Mobile Speed, 2016) | stat |
+| 2026-10-15 | 14h | Prova local: paciente da cidade quer ver alguém da cidade; redes repetem texto | headline |
+| 2026-10-15 | 18h | 62,7% citam parecer mais jovem no trabalho como motivo (ISHRS 2024 via VIVA) | stat |
