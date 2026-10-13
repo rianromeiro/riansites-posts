@@ -31,3 +31,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-15 | 10h | 53% abandonam site mobile que leva mais de 3s (Google, The Need for Mobile Speed, 2016) | stat |
 | 2026-10-15 | 14h | Prova local: paciente da cidade quer ver alguém da cidade; redes repetem texto | headline |
 | 2026-10-15 | 18h | 62,7% citam parecer mais jovem no trabalho como motivo (ISHRS 2024 via VIVA) | stat |
+| 2026-10-16 | 10h | 71% dos casos de queda atribuídos a fatores genéticos; médico diagnostica antes de operar (ISHRS 2024 via VIVA) | stat |
+| 2026-10-16 | 14h | Pacote de viagem e páginas de cidade: clínica de 1 endereço capta o Brasil todo | headline |
+| 2026-10-16 | 18h | 72% dos usuários da Doctoralia são mulheres; site fala com elas? (Doctoralia via Medicina S/A) | stat |
