@@ -34,3 +34,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-16 | 10h | 71% dos casos de queda atribuídos a fatores genéticos; médico diagnostica antes de operar (ISHRS 2024 via VIVA) | stat |
 | 2026-10-16 | 14h | Pacote de viagem e páginas de cidade: clínica de 1 endereço capta o Brasil todo | headline |
 | 2026-10-16 | 18h | 72% dos usuários da Doctoralia são mulheres; site fala com elas? (Doctoralia via Medicina S/A) | stat |
+| 2026-10-17 | 10h | 12% usam IA para a 1ª orientação sobre saúde; site com o que ser citado (Doctoralia, Perfil do Paciente Digital 2026 via Medicina S/A) | stat |
+| 2026-10-17 | 14h | Só 1 de 5 cumpre nome, CRM e RQE do médico e diretor técnico em toda peça (Res. CFM 2.336/2023) | stat |
+| 2026-10-17 | 18h | 78% enfrentaram barreira de acesso; 19,2% falta de horário conveniente (Doctoralia 2026 via Medicina S/A) | stat |
