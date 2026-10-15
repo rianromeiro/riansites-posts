@@ -37,3 +37,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-17 | 10h | 12% usam IA para a 1ª orientação sobre saúde; site com o que ser citado (Doctoralia, Perfil do Paciente Digital 2026 via Medicina S/A) | stat |
 | 2026-10-17 | 14h | Só 1 de 5 cumpre nome, CRM e RQE do médico e diretor técnico em toda peça (Res. CFM 2.336/2023) | stat |
 | 2026-10-17 | 18h | 78% enfrentaram barreira de acesso; 19,2% falta de horário conveniente (Doctoralia 2026 via Medicina S/A) | stat |
+| 2026-10-18 | 10h | 33% dos agendamentos fora do horário comercial; contato a qualquer hora (Doctoralia, Perfil do Paciente Digital 2025 via Medicina S/A) | stat |
+| 2026-10-18 | 14h | 3 de 5 redes mostram nome ou rosto de paciente (Res. CFM 2.336/2023; análise própria) | stat |
+| 2026-10-18 | 18h | 70% dos homens pacientes têm 30–49 anos (ABCRC Censo 2023 via Viva) | stat |
