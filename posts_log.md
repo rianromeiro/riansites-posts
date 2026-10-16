@@ -40,3 +40,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-18 | 10h | 33% dos agendamentos fora do horário comercial; contato a qualquer hora (Doctoralia, Perfil do Paciente Digital 2025 via Medicina S/A) | stat |
 | 2026-10-18 | 14h | 3 de 5 redes mostram nome ou rosto de paciente (Res. CFM 2.336/2023; análise própria) | stat |
 | 2026-10-18 | 18h | 70% dos homens pacientes têm 30–49 anos (ABCRC Censo 2023 via Viva) | stat |
+| 2026-10-19 | 10h | 10% dos transplantes no mundo são correções; paciente pesquisa o médico (ISHRS via Estado de Minas, nov/2025) | stat |
+| 2026-10-19 | 14h | Seis brechas que nenhuma das 5 redes explora bem (análise própria) | headline |
+| 2026-10-19 | 18h | Mito x verdade: tráfego de rede (173,6 mil x 11,6 mil visitas; máx. 15,5 de 30) | headline |
