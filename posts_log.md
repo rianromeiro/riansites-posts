@@ -43,3 +43,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-19 | 10h | 10% dos transplantes no mundo são correções; paciente pesquisa o médico (ISHRS via Estado de Minas, nov/2025) | stat |
 | 2026-10-19 | 14h | Seis brechas que nenhuma das 5 redes explora bem (análise própria) | headline |
 | 2026-10-19 | 18h | Mito x verdade: tráfego de rede (173,6 mil x 11,6 mil visitas; máx. 15,5 de 30) | headline |
+| 2026-10-20 | 10h | 61% dos pacientes pesquisados têm 44+ anos; contato visível e texto legível (Doctoralia, Perfil do Paciente Digital 2026 via VIVA) | stat |
+| 2026-10-20 | 14h | Mito x verdade: CFM não proíbe falar de preço de consulta e formas de pagamento; 0 de 5 com simulador de parcelas (Res. CFM 2.336/2023) | headline |
+| 2026-10-20 | 18h | CFM permite repostar agradecimentos de pacientes sem superlativos; 0 de 5 exibem avaliações do Google (Res. CFM 2.336/2023) | headline |
