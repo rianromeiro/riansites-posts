@@ -46,3 +46,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-20 | 10h | 61% dos pacientes pesquisados têm 44+ anos; contato visível e texto legível (Doctoralia, Perfil do Paciente Digital 2026 via VIVA) | stat |
 | 2026-10-20 | 14h | Mito x verdade: CFM não proíbe falar de preço de consulta e formas de pagamento; 0 de 5 com simulador de parcelas (Res. CFM 2.336/2023) | headline |
 | 2026-10-20 | 18h | CFM permite repostar agradecimentos de pacientes sem superlativos; 0 de 5 exibem avaliações do Google (Res. CFM 2.336/2023) | headline |
+| 2026-10-21 | 10h | Brasil em 3º no mundo em procedimentos; paciente de fora pesquisa o site (ISHRS via O Globo/Paraíba Business, mai/2025) | stat |
+| 2026-10-21 | 14h | 31% não consideram negócios locais com menos de 4,5 estrelas; nota do Google à vista (BrightLocal 2026 via Zocdoc) | stat |
+| 2026-10-21 | 18h | Teste do celular: quem opera está à vista (nome, CRM, RQE, formação, vídeo); 0 de 5 com vídeo | headline |
