@@ -49,3 +49,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-21 | 10h | Brasil em 3º no mundo em procedimentos; paciente de fora pesquisa o site (ISHRS via O Globo/Paraíba Business, mai/2025) | stat |
 | 2026-10-21 | 14h | 31% não consideram negócios locais com menos de 4,5 estrelas; nota do Google à vista (BrightLocal 2026 via Zocdoc) | stat |
 | 2026-10-21 | 18h | Teste do celular: quem opera está à vista (nome, CRM, RQE, formação, vídeo); 0 de 5 com vídeo | headline |
+| 2026-10-22 | 10h | Instagram descobre, Google decide; paciente agenda pela busca (análise MNG via Medicina S/A, jun/2026) | headline |
+| 2026-10-22 | 14h | 295 mil visitas/mês somando os 5 maiores sites; demanda existe (Similarweb ago/2026) | stat |
+| 2026-10-22 | 18h | Pergunta: "transplante capilar + sua cidade", quem aparece primeiro; página de cidade própria | headline |
