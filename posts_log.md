@@ -55,3 +55,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-23 | 10h | 78% compram da primeira empresa que responde; retorno em 48h de uma rede (Lead Connect via Aurora Inbox, 2026) | stat |
 | 2026-10-23 | 14h | 97% de quem lê avaliações lê as respostas do negócio; resposta no site (LocaliQ via Shapo, 2025) | stat |
 | 2026-10-23 | 18h | 6 critérios do paciente: CRM, quem opera, técnica, casos reais, estrutura, pós-operatório (Dra. Fabiana Colucci Montoro, Estado de Minas, jul/2026) | headline |
+| 2026-10-24 | 10h | 1 em 4 clínicas usa marketing estruturado para converter (Doctoralia e Feegow Clinic via Times Brasil, mar/2026) | stat |
+| 2026-10-24 | 14h | 42% confiam mais em hospitais e clínicas como fonte de informação; voz do médico no site (Datafolha 2025 via Times Brasil) | stat |
+| 2026-10-24 | 18h | Erro comum: site mostra quem é o médico, mas não como ele pensa (Ricardo Novack via Times Brasil, mar/2026) | headline |
