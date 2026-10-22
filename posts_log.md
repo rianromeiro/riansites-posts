@@ -58,3 +58,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-24 | 10h | 1 em 4 clínicas usa marketing estruturado para converter (Doctoralia e Feegow Clinic via Times Brasil, mar/2026) | stat |
 | 2026-10-24 | 14h | 42% confiam mais em hospitais e clínicas como fonte de informação; voz do médico no site (Datafolha 2025 via Times Brasil) | stat |
 | 2026-10-24 | 18h | Erro comum: site mostra quem é o médico, mas não como ele pensa (Ricardo Novack via Times Brasil, mar/2026) | headline |
+| 2026-10-25 | 10h | 60% buscam saúde na internet, 9 em 10 começam pelo Google (Vox Populi e IESS via Medicina S/A, jan/2026) | stat |
+| 2026-10-25 | 14h | 84% dos agendamentos digitais são pelo smartphone (Doctoralia, Perfil do Paciente Digital 2025 via Medicina S/A) | stat |
+| 2026-10-25 | 18h | Site de clínica precisa ser achado, acreditado e contatado: tráfego, confiança, conversão (checklist de 30 itens; análise própria) | headline |
