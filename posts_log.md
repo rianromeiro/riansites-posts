@@ -61,3 +61,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-25 | 10h | 60% buscam saúde na internet, 9 em 10 começam pelo Google (Vox Populi e IESS via Medicina S/A, jan/2026) | stat |
 | 2026-10-25 | 14h | 84% dos agendamentos digitais são pelo smartphone (Doctoralia, Perfil do Paciente Digital 2025 via Medicina S/A) | stat |
 | 2026-10-25 | 18h | Site de clínica precisa ser achado, acreditado e contatado: tráfego, confiança, conversão (checklist de 30 itens; análise própria) | headline |
+| 2026-10-26 | 10h | 38% agendam consulta direto ao surgir dúvida; 39% começam pelo Google; como marcar à vista (Doctoralia, Perfil do Paciente Digital 2026 via Medicina S/A) | stat |
+| 2026-10-26 | 14h | Pós-graduação no currículo exige "NÃO ESPECIALISTA"; especialista só com residência/AMB e RQE (Res. CFM 2.336/2023) | headline |
+| 2026-10-26 | 18h | CFM permite mostrar equipamentos, ambiente e selfies com a equipe; site mostra a clínica por dentro (Res. CFM 2.336/2023) | headline |
