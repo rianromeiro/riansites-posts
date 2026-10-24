@@ -64,3 +64,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-26 | 10h | 38% agendam consulta direto ao surgir dúvida; 39% começam pelo Google; como marcar à vista (Doctoralia, Perfil do Paciente Digital 2026 via Medicina S/A) | stat |
 | 2026-10-26 | 14h | Pós-graduação no currículo exige "NÃO ESPECIALISTA"; especialista só com residência/AMB e RQE (Res. CFM 2.336/2023) | headline |
 | 2026-10-26 | 18h | CFM permite mostrar equipamentos, ambiente e selfies com a equipe; site mostra a clínica por dentro (Res. CFM 2.336/2023) | headline |
+| 2026-10-27 | 10h | IA no Google corta 58% dos cliques da 1ª posição; site como fonte citada (Ahrefs dez/2025 via Super Rádio Tupi, jul/2026) | stat |
+| 2026-10-27 | 14h | Mais avaliações, mais visibilidade na busca; 0 de 5 exibem avaliações (Doctoralia via Super Rádio Tupi, jul/2026; análise própria) | headline |
+| 2026-10-27 | 18h | 24% das empresas brasileiras investem em GEO x 64% em SEO (Helton Sforzin via Super Rádio Tupi, jul/2026) | stat |
