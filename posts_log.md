@@ -67,3 +67,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-27 | 10h | IA no Google corta 58% dos cliques da 1ª posição; site como fonte citada (Ahrefs dez/2025 via Super Rádio Tupi, jul/2026) | stat |
 | 2026-10-27 | 14h | Mais avaliações, mais visibilidade na busca; 0 de 5 exibem avaliações (Doctoralia via Super Rádio Tupi, jul/2026; análise própria) | headline |
 | 2026-10-27 | 18h | 24% das empresas brasileiras investem em GEO x 64% em SEO (Helton Sforzin via Super Rádio Tupi, jul/2026) | stat |
+| 2026-10-28 | 10h | 80% escolhem o médico por avaliações de outros pacientes; avaliações do Google no site (Doctoralia, Perfil do Paciente Digital via Medicina S/A, out/2025) | stat |
+| 2026-10-28 | 14h | CFM proíbe garantir, prometer ou insinuar resultado; site explica em vez de prometer (Res. CFM 2.336/2023 via Mattos Filho) | headline |
+| 2026-10-28 | 18h | CFM proíbe transmitir procedimento ao vivo; vídeo educativo gravado; 0 de 5 com vídeo (Res. CFM 2.336/2023 via Mattos Filho; análise própria) | headline |
