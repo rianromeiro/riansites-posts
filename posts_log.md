@@ -70,3 +70,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-28 | 10h | 80% escolhem o médico por avaliações de outros pacientes; avaliações do Google no site (Doctoralia, Perfil do Paciente Digital via Medicina S/A, out/2025) | stat |
 | 2026-10-28 | 14h | CFM proíbe garantir, prometer ou insinuar resultado; site explica em vez de prometer (Res. CFM 2.336/2023 via Mattos Filho) | headline |
 | 2026-10-28 | 18h | CFM proíbe transmitir procedimento ao vivo; vídeo educativo gravado; 0 de 5 com vídeo (Res. CFM 2.336/2023 via Mattos Filho; análise própria) | headline |
+| 2026-10-29 | 10h | 240% de crescimento do interesse por transplante capilar na Europa 2010–2021; paciente compara sites (Folhapress via Mais Goiás, set/2024) | stat |
+| 2026-10-29 | 14h | Foto de antes e depois editada é proibida; texto educativo com complicações (Res. CFM 2.336/2023 via Mattos Filho) | headline |
+| 2026-10-29 | 18h | Mito x verdade: "sem dor, sem cicatriz"; recuperação desconfortável, ~15 dias de afastamento (Folhapress via Mais Goiás, set/2024) | headline |
