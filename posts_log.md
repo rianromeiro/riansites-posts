@@ -73,3 +73,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-29 | 10h | 240% de crescimento do interesse por transplante capilar na Europa 2010–2021; paciente compara sites (Folhapress via Mais Goiás, set/2024) | stat |
 | 2026-10-29 | 14h | Foto de antes e depois editada é proibida; texto educativo com complicações (Res. CFM 2.336/2023 via Mattos Filho) | headline |
 | 2026-10-29 | 18h | Mito x verdade: "sem dor, sem cicatriz"; recuperação desconfortável, ~15 dias de afastamento (Folhapress via Mais Goiás, set/2024) | headline |
+| 2026-10-30 | 10h | 233 estrangeiros viajaram ao Brasil em 2025 para transplante com a equipe de um grupo; site é a 1ª consulta (Super Rádio Tupi, jul/2026) | stat |
+| 2026-10-30 | 14h | CFM permite promoção/desconto, proíbe venda casada; oferta clara (Res. CFM 2.336/2023 via Mattos Filho) | headline |
+| 2026-10-30 | 18h | Uma das 5 redes sem WhatsApp no código; telefone escondido; retorno em 48h (análise própria) | headline |
