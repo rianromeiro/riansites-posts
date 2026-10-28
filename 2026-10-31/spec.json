@@ -1,0 +1,32 @@
+[
+ {
+  "file": "2026-10-31_10h_53-por-cento.png",
+  "layout": "stat",
+  "tag": "SITE  ·  CELULAR",
+  "big": "53%",
+  "big_size": 300,
+  "headline": "dos visitantes abandonam um site de celular que leva mais de 3 segundos para carregar.",
+  "body": "O paciente que clicou na sua clínica pelo Google não espera. Site lento perde a consulta antes de mostrar o médico.",
+  "foot": "Fonte: Google, The Need for Mobile Speed, 2016 (via Marketing Dive)"
+ },
+ {
+  "file": "2026-10-31_14h_aparelho-exclusivo.png",
+  "layout": "headline",
+  "tag": "CFM  ·  RES. 2.336/2023",
+  "line1": "Aparelho \"exclusivo\"?",
+  "line2": "O CFM não deixa.",
+  "body1": "A resolução veda atribuir capacidades privilegiadas a aparelhos e proíbe o sensacionalismo nas publicações (resumo Demarest).",
+  "body2": "O seu site vende o médico ou vende a máquina?",
+  "foot": "Fonte: Res. CFM 2.336/2023, resumo Demarest"
+ },
+ {
+  "file": "2026-10-31_18h_12-por-segundo.png",
+  "layout": "headline",
+  "tag": "CONVERSÃO  ·  VELOCIDADE",
+  "line1": "Cada segundo a mais",
+  "line2": "custa 12% das conversões.",
+  "body1": "Análise do Google: a cada 1 segundo de atraso no carregamento, as conversões caem 12% (via Research Live, 2017).",
+  "body2": "Quantos segundos o seu site leva no 4G?",
+  "foot": "Fonte: Google, via Research Live, ago/2017"
+ }
+]
