@@ -76,3 +76,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-30 | 10h | 233 estrangeiros viajaram ao Brasil em 2025 para transplante com a equipe de um grupo; site é a 1ª consulta (Super Rádio Tupi, jul/2026) | stat |
 | 2026-10-30 | 14h | CFM permite promoção/desconto, proíbe venda casada; oferta clara (Res. CFM 2.336/2023 via Mattos Filho) | headline |
 | 2026-10-30 | 18h | Uma das 5 redes sem WhatsApp no código; telefone escondido; retorno em 48h (análise própria) | headline |
+| 2026-10-31 | 10h | 53% abandonam site de celular com mais de 3s (Google, The Need for Mobile Speed, 2016 via Marketing Dive) | stat |
+| 2026-10-31 | 14h | CFM veda atribuir capacidades privilegiadas a aparelhos; vender o médico, não a máquina (Res. CFM 2.336/2023 via Demarest) | headline |
+| 2026-10-31 | 18h | Cada 1s de atraso reduz 12% das conversões (Google via Research Live, 2017) | headline |
