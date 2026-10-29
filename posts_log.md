@@ -79,3 +79,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-10-31 | 10h | 53% abandonam site de celular com mais de 3s (Google, The Need for Mobile Speed, 2016 via Marketing Dive) | stat |
 | 2026-10-31 | 14h | CFM veda atribuir capacidades privilegiadas a aparelhos; vender o médico, não a máquina (Res. CFM 2.336/2023 via Demarest) | headline |
 | 2026-10-31 | 18h | Cada 1s de atraso reduz 12% das conversões (Google via Research Live, 2017) | headline |
+| 2026-11-01 | 10h | Transplante não é solução definitiva; queda contínua, tratamento medicamentoso segue (Estado de Minas, jul/2026) | headline |
+| 2026-11-01 | 14h | Dia da cirurgia: ambulatorial, hospital, anestesia local, sedação e anestesista; site responde dúvidas (Estado de Minas, jul/2026) | headline |
+| 2026-11-01 | 18h | Mito x verdade: clonagem de folículos ainda em pesquisa; não prometer (Estado de Minas, jul/2026; Res. CFM 2.336/2023) | headline |
