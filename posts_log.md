@@ -82,3 +82,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-01 | 10h | Transplante não é solução definitiva; queda contínua, tratamento medicamentoso segue (Estado de Minas, jul/2026) | headline |
 | 2026-11-01 | 14h | Dia da cirurgia: ambulatorial, hospital, anestesia local, sedação e anestesista; site responde dúvidas (Estado de Minas, jul/2026) | headline |
 | 2026-11-01 | 18h | Mito x verdade: clonagem de folículos ainda em pesquisa; não prometer (Estado de Minas, jul/2026; Res. CFM 2.336/2023) | headline |
+| 2026-11-02 | 10h | 65,7% interagiriam com chatbot de IA de marca de saúde para agendar; resposta rápida (Sinch 2025 via Medicina S/A) | stat |
+| 2026-11-02 | 14h | Clínica independente com 1 endereço atende o Brasil: páginas de cidade + pacote de viagem (análise própria) | headline |
+| 2026-11-02 | 18h | 47,5% admitem perder consulta sem lembrete automático; pós-agendamento (Sinch 2025 via Medicina S/A) | stat |
