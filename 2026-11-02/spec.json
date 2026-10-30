@@ -1,0 +1,32 @@
+[
+ {
+  "file": "2026-11-02_10h_chatbot-agendar.png",
+  "layout": "stat",
+  "tag": "ATENDIMENTO  ·  AGENDAMENTO",
+  "big": "65,7%",
+  "big_size": 260,
+  "headline": "dos brasileiros interagiriam com um chatbot de IA de uma marca de saúde para agendar consulta.",
+  "body": "O paciente aceita ser atendido por automação se ela for rápida. Seu site responde na hora ou espera alguém ver a mensagem?",
+  "foot": "Fonte: Sinch, State of Customer Communications 2025 (via Medicina S/A)"
+ },
+ {
+  "file": "2026-11-02_14h_pacote-viagem.png",
+  "layout": "headline",
+  "tag": "INDEPENDENTE  ·  1 ENDEREÇO",
+  "line1": "Uma clínica só",
+  "line2": "pode atender o Brasil.",
+  "body1": "Um dos modelos que analisamos combina páginas de cidade com pacote de viagem para captar paciente de fora da cidade da clínica.",
+  "body2": "O seu site explica como o paciente de outra cidade chega até você?",
+  "foot": "Fonte: análise própria dos 5 maiores sites, 2026"
+ },
+ {
+  "file": "2026-11-02_18h_lembretes.png",
+  "layout": "stat",
+  "tag": "PÓS-AGENDAMENTO  ·  FALTAS",
+  "big": "47,5%",
+  "big_size": 260,
+  "headline": "dos brasileiros admitem que podem perder uma consulta se não receberem lembrete automático.",
+  "body": "Agendar é metade do trabalho. Lembrete por WhatsApp protege a agenda do médico depois que o site fez a venda.",
+  "foot": "Fonte: Sinch, State of Customer Communications 2025 (via Medicina S/A)"
+ }
+]
