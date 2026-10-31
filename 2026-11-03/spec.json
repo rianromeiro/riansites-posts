@@ -1,0 +1,32 @@
+[
+ {
+  "file": "2026-11-03_10h_demanda-cresce.png",
+  "layout": "stat",
+  "tag": "MERCADO  ·  DEMANDA",
+  "big": "+20%",
+  "big_size": 260,
+  "headline": "no número médio de pacientes por membro da ISHRS desde 2021.",
+  "body": "A demanda cresce. O paciente que chega a você já pesquisou antes. O seu site está pronto para ele?",
+  "foot": "Fonte: ISHRS 2025 Practice Census (PR Newswire, jun/2025)"
+ },
+ {
+  "file": "2026-11-03_14h_agendar-online.png",
+  "layout": "stat",
+  "tag": "CONVERSÃO  ·  AGENDAMENTO ONLINE",
+  "big": "60%",
+  "big_size": 260,
+  "headline": "dos pacientes esperam poder agendar consulta de forma online.",
+  "body": "Se o seu site só tem um telefone no rodapé, ele pede um esforço que o paciente espera não fazer. Como marcar precisa estar à vista.",
+  "foot": "Fonte: Doctoralia (via Medicina S/A, jan/2023)"
+ },
+ {
+  "file": "2026-11-03_18h_fora-do-couro.png",
+  "layout": "stat",
+  "tag": "SERVIÇOS  ·  O QUE O SITE MOSTRA",
+  "big": "21%",
+  "big_size": 260,
+  "headline": "dos procedimentos em mulheres em 2024 foram fora do couro cabeludo. Entre os homens, 18%.",
+  "body": "Sobrancelha, barba e outras áreas já são parte da demanda. Seu site mostra o que a clínica faz além da cabeça?",
+  "foot": "Fonte: ISHRS 2025 Practice Census (PR Newswire, jun/2025)"
+ }
+]
