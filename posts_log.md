@@ -85,3 +85,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-02 | 10h | 65,7% interagiriam com chatbot de IA de marca de saúde para agendar; resposta rápida (Sinch 2025 via Medicina S/A) | stat |
 | 2026-11-02 | 14h | Clínica independente com 1 endereço atende o Brasil: páginas de cidade + pacote de viagem (análise própria) | headline |
 | 2026-11-02 | 18h | 47,5% admitem perder consulta sem lembrete automático; pós-agendamento (Sinch 2025 via Medicina S/A) | stat |
+| 2026-11-03 | 10h | +20% no número médio de pacientes por membro da ISHRS desde 2021; demanda cresce (ISHRS 2025 Practice Census via PR Newswire, jun/2025) | stat |
+| 2026-11-03 | 14h | 60% esperam agendar online; como marcar à vista (Doctoralia via Medicina S/A, jan/2023) | stat |
+| 2026-11-03 | 18h | 21% dos procedimentos em mulheres e 18% em homens fora do couro cabeludo; site mostra além da cabeça (ISHRS 2025 Practice Census via PR Newswire, jun/2025) | stat |
