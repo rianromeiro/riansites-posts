@@ -88,3 +88,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-03 | 10h | +20% no número médio de pacientes por membro da ISHRS desde 2021; demanda cresce (ISHRS 2025 Practice Census via PR Newswire, jun/2025) | stat |
 | 2026-11-03 | 14h | 60% esperam agendar online; como marcar à vista (Doctoralia via Medicina S/A, jan/2023) | stat |
 | 2026-11-03 | 18h | 21% dos procedimentos em mulheres e 18% em homens fora do couro cabeludo; site mostra além da cabeça (ISHRS 2025 Practice Census via PR Newswire, jun/2025) | stat |
+| 2026-11-04 | 10h | 66% dos pacientes que usam IA em saúde perguntam sobre sintomas/diagnóstico; resposta com a voz do médico (Afya/Conexa nov/2025–jan/2026 via Super Rádio Tupi, jul/2026) | stat |
+| 2026-11-04 | 14h | Entrevista na mídia: CFM veda endereço/telefone e angariar clientela; contato no site (Res. CFM 2.336/2023, art. 10) | headline |
+| 2026-11-04 | 18h | "Melhor médico" não é credencial; CFM veda listas promocionais (Res. CFM 2.336/2023, art. 11, XIII) | headline |
