@@ -91,3 +91,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-04 | 10h | 66% dos pacientes que usam IA em saúde perguntam sobre sintomas/diagnóstico; resposta com a voz do médico (Afya/Conexa nov/2025–jan/2026 via Super Rádio Tupi, jul/2026) | stat |
 | 2026-11-04 | 14h | Entrevista na mídia: CFM veda endereço/telefone e angariar clientela; contato no site (Res. CFM 2.336/2023, art. 10) | headline |
 | 2026-11-04 | 18h | "Melhor médico" não é credencial; CFM veda listas promocionais (Res. CFM 2.336/2023, art. 11, XIII) | headline |
+| 2026-11-05 | 10h | 67,3% dos membros da ISHRS: resultado desejado com um único procedimento; site responde quantas sessões (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-05 | 14h | 15,3% dos pacientes de transplante são mulheres (38,3% nos não cirúrgicos); site fala com a paciente (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-05 | 18h | Erro comum: campanha pontual não é base; site é o que fica (Ricardo Novack via Times Brasil, mar/2026) | headline |
