@@ -94,3 +94,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-05 | 10h | 67,3% dos membros da ISHRS: resultado desejado com um único procedimento; site responde quantas sessões (ISHRS 2025 Practice Census via Advanced Hair) | stat |
 | 2026-11-05 | 14h | 15,3% dos pacientes de transplante são mulheres (38,3% nos não cirúrgicos); site fala com a paciente (ISHRS 2025 Practice Census via Advanced Hair) | stat |
 | 2026-11-05 | 18h | Erro comum: campanha pontual não é base; site é o que fica (Ricardo Novack via Times Brasil, mar/2026) | headline |
+| 2026-11-06 | 10h | 26 milhões de buscas no Google sobre sintomas em 12 meses; site responde com a voz do médico (Olá Doutor via Portal ABC do ABC, abr/2026) | stat |
+| 2026-11-06 | 14h | Especialidade no site: só a registrada no CRM, com RQE (Res. CFM 2.336/2023, art. 4º, II) | headline |
+| 2026-11-06 | 18h | R$ 6 mi de um grupo em hospital só de transplante capilar em Fortaleza; independente compete com site que prova quem opera (Super Rádio Tupi, jul/2026) | stat |
