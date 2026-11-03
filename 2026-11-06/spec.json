@@ -1,0 +1,32 @@
+[
+ {
+  "file": "2026-11-06_10h_buscas-sintomas.png",
+  "layout": "stat",
+  "tag": "BUSCA  ·  GOOGLE",
+  "big": "26 mi",
+  "big_size": 260,
+  "headline": "de buscas no Google sobre sintomas de doenças no Brasil em 12 meses.",
+  "body": "O paciente pesquisa antes de falar com qualquer médico. O seu site responde as dúvidas dele com a voz do médico?",
+  "foot": "Fonte: Olá Doutor, via Portal ABC do ABC, abr/2026"
+ },
+ {
+  "file": "2026-11-06_14h_especialidade-rqe.png",
+  "layout": "headline",
+  "tag": "REGRA DO CFM  ·  ESPECIALIDADE",
+  "line1": "Especialidade no site:",
+  "line2": "só a registrada.",
+  "body1": "A Res. CFM 2.336/2023 (art. 4º, II) pede a especialidade registrada no CRM, seguida do número do RQE.",
+  "body2": "O seu site mostra nome, CRM e RQE do médico logo na primeira tela?",
+  "foot": "Fonte: Res. CFM 2.336/2023, art. 4º, II"
+ },
+ {
+  "file": "2026-11-06_18h_hospital-dedicado.png",
+  "layout": "stat",
+  "tag": "REDE x INDEPENDENTE",
+  "big": "R$ 6 mi",
+  "big_size": 230,
+  "headline": "foi o investimento de um grupo em um hospital só de transplante capilar em Fortaleza.",
+  "body": "Quem tem estrutura dessas atrai pacientes de longe. A clínica independente compete com um site que prova quem opera.",
+  "foot": "Fonte: Super Rádio Tupi, jul/2026"
+ }
+]
