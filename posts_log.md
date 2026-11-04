@@ -97,3 +97,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-06 | 10h | 26 milhões de buscas no Google sobre sintomas em 12 meses; site responde com a voz do médico (Olá Doutor via Portal ABC do ABC, abr/2026) | stat |
 | 2026-11-06 | 14h | Especialidade no site: só a registrada no CRM, com RQE (Res. CFM 2.336/2023, art. 4º, II) | headline |
 | 2026-11-06 | 18h | R$ 6 mi de um grupo em hospital só de transplante capilar em Fortaleza; independente compete com site que prova quem opera (Super Rádio Tupi, jul/2026) | stat |
+| 2026-11-07 | 10h | 85,4% dos transplantes em homens usam FUE; se a técnica é igual, paciente escolhe por quem opera (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-07 | 14h | 2.347 enxertos em média na 1ª sessão; site explica que o número vem da avaliação do médico (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-07 | 18h | Site de clínica não grita: CFM veda postura sensacionalista/autopromocional (Res. CFM 2.336/2023, art. 11, XVI) | headline |
