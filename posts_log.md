@@ -100,3 +100,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-07 | 10h | 85,4% dos transplantes em homens usam FUE; se a técnica é igual, paciente escolhe por quem opera (ISHRS 2025 Practice Census via Advanced Hair) | stat |
 | 2026-11-07 | 14h | 2.347 enxertos em média na 1ª sessão; site explica que o número vem da avaliação do médico (ISHRS 2025 Practice Census via Advanced Hair) | stat |
 | 2026-11-07 | 18h | Site de clínica não grita: CFM veda postura sensacionalista/autopromocional (Res. CFM 2.336/2023, art. 11, XVI) | headline |
+| 2026-11-08 | 10h | 48% das buscas por procedimentos de transplante no Google (2004–mar/2024) são sobre transplante capilar; o que o paciente encontra no site (ABCRC via Super Rádio Tupi, jul/2024) | stat |
+| 2026-11-08 | 14h | 9 em 10 descartam estabelecimento com nota abaixo de 4 no Google; nota visível no site (Reclame Aqui e Harmo, Decisão Local 2025) | stat |
+| 2026-11-08 | 18h | 76,5% dizem que a resposta da empresa às avaliações é decisiva; responder avaliação como vitrine (Reclame Aqui e Harmo, 2025) | headline |
