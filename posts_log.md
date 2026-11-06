@@ -103,3 +103,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-08 | 10h | 48% das buscas por procedimentos de transplante no Google (2004–mar/2024) são sobre transplante capilar; o que o paciente encontra no site (ABCRC via Super Rádio Tupi, jul/2024) | stat |
 | 2026-11-08 | 14h | 9 em 10 descartam estabelecimento com nota abaixo de 4 no Google; nota visível no site (Reclame Aqui e Harmo, Decisão Local 2025) | stat |
 | 2026-11-08 | 18h | 76,5% dizem que a resposta da empresa às avaliações é decisiva; responder avaliação como vitrine (Reclame Aqui e Harmo, 2025) | headline |
+| 2026-11-09 | 10h | 30% dos procedimentos em mulheres usam FUT x 12,5% nos homens; site explica a indicação da técnica (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-09 | 14h | Paciente vai comparar: orientação de buscar mais de uma consulta e avaliação presencial; site que ganha a comparação (Advanced Hair, resumo do ISHRS 2025) | headline |
+| 2026-11-09 | 18h | 15 procedimentos por mês por cirurgião da ISHRS; agenda finita, contato perdido pesa (ISHRS 2025 Practice Census via Advanced Hair) | stat |
