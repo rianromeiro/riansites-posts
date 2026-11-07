@@ -106,3 +106,6 @@ Um post por linha. Consulte antes de criar qualquer post novo para não repetir 
 | 2026-11-09 | 10h | 30% dos procedimentos em mulheres usam FUT x 12,5% nos homens; site explica a indicação da técnica (ISHRS 2025 Practice Census via Advanced Hair) | stat |
 | 2026-11-09 | 14h | Paciente vai comparar: orientação de buscar mais de uma consulta e avaliação presencial; site que ganha a comparação (Advanced Hair, resumo do ISHRS 2025) | headline |
 | 2026-11-09 | 18h | 15 procedimentos por mês por cirurgião da ISHRS; agenda finita, contato perdido pesa (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-10 | 10h | 2% do faturamento é a multa máxima da LGPD, teto R$ 50 mi; formulário recebe dado de saúde (Medicina S/A, fev/2025) | stat |
+| 2026-11-10 | 14h | 30,8% chegam a um 2º procedimento, média 1,5 por paciente; site alinha expectativa (ISHRS 2025 Practice Census via Advanced Hair) | stat |
+| 2026-11-10 | 18h | 77% dos usuários de WhatsApp pesquisados ligam mais pelo app que pela operadora; WhatsApp/telefone em toda página (Panorama MobileTime/Opinion Box, jan/2025) | stat |
